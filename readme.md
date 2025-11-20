@@ -17,7 +17,7 @@
 ## 📦 Установка и запуск
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/MaksimDyumin/test-tusk-effMob
 cd test-tusk-effMob
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
